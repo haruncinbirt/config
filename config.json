@@ -8,6 +8,10 @@
   "premium_nudge_max_per_day": 1,
   "app_store_url": "https://apps.apple.com/tr/app/sms-onay-sanal-numara/id6760222356?l=tr",
   "google_play_url": "https://apps.apple.com/tr/app/sms-onay-sanal-numara/id6760222356?l=tr",
+  "premium_legal_links": [
+  { "key": "terms", "url": "https://example.com/terms" },
+  { "key": "privacy", "url": "https://example.com/privacy" }
+  ],
   "popular_search": [
   { "word": "serendipity", "slug": "serendipity" },
   { "word": "ephemeral", "slug": "ephemeral" },
