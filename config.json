@@ -2,8 +2,8 @@
   "ads_enabled": true,
   "force_update": true,
   "min_version": "1.0.1",
-  "app_store_url": "",
-  "google_play_url": "",
+  "app_store_url": "https://apps.apple.com/tr/app/sms-onay-sanal-numara/id6760222356?l=tr",
+  "google_play_url": "https://apps.apple.com/tr/app/sms-onay-sanal-numara/id6760222356?l=tr",
   "popular_search": [
   { "word": "serendipity", "slug": "serendipity" },
   { "word": "ephemeral", "slug": "ephemeral" },
