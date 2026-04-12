@@ -1,7 +1,7 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "force_update": true,
-  "min_version": "1.0.1",
+  "min_version": "1.0.0",
   "app_store_url": "https://apps.apple.com/tr/app/sms-onay-sanal-numara/id6760222356?l=tr",
   "google_play_url": "https://apps.apple.com/tr/app/sms-onay-sanal-numara/id6760222356?l=tr",
   "popular_search": [
