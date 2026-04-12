@@ -1,0 +1,29 @@
+{
+  "ads_enabled": true,
+  "force_update": false,
+  "min_version": "1.0.0",
+  "app_store_url": "",
+  "google_play_url": "",
+  "popular_search": [
+  { "word": "serendipity", "slug": "serendipity" },
+  { "word": "ephemeral", "slug": "ephemeral" },
+  { "word": "eloquent", "slug": "eloquent" },
+  { "word": "ambiguous", "slug": "ambiguous" },
+  { "word": "benevolent", "slug": "benevolent" },
+  { "word": "resilient", "slug": "resilient" },
+  { "word": "lucid", "slug": "lucid" },
+  { "word": "obsolete", "slug": "obsolete" },
+  { "word": "meticulous", "slug": "meticulous" },
+  { "word": "pragmatic", "slug": "pragmatic" },
+  { "word": "ubiquitous", "slug": "ubiquitous" },
+  { "word": "tenacious", "slug": "tenacious" },
+  { "word": "candid", "slug": "candid" },
+  { "word": "nostalgia", "slug": "nostalgia" },
+  { "word": "paradox", "slug": "paradox" },
+  { "word": "audacious", "slug": "audacious" },
+  { "word": "tranquility", "slug": "tranquility" },
+  { "word": "vivid", "slug": "vivid" },
+  { "word": "enigmatic", "slug": "enigmatic" },
+  { "word": "harmony", "slug": "harmony" }
+]
+}
