@@ -1,7 +1,7 @@
 {
   "ads_enabled": true,
-  "force_update": false,
-  "min_version": "1.0.0",
+  "force_update": true,
+  "min_version": "1.0.1",
   "app_store_url": "",
   "google_play_url": "",
   "popular_search": [
