@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "force_update": true,
   "min_version": "1.0.0",
   "review_prompt_enabled": true,
