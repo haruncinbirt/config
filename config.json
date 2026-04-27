@@ -6,8 +6,8 @@
   "review_prompt_max_per_day": 1,
   "premium_nudge_enabled": false,
   "premium_nudge_max_per_day": 1,
-  "app_store_url": "https://apps.apple.com/tr/app/sms-onay-sanal-numara/id6760222356?l=tr",
-  "google_play_url": "https://apps.apple.com/tr/app/sms-onay-sanal-numara/id6760222356?l=tr",
+  "app_store_url": "https://apps.apple.com/us/app/dictiona-english-dictionary/id6762094632",
+  "google_play_url": "https://play.google.com/store/apps/details?id=com.dictiona.app",
   "premium_legal_links": [
   { "key": "terms", "url": "https://dictiona-website.vercel.app/terms-of-use.html" },
   { "key": "privacy", "url": "https://dictiona-website.vercel.app/privacy-policy.html" }
