@@ -2,7 +2,7 @@
   "ads_enabled": true,
   "force_update": true,
   "min_version": "1.0.1",
-  "review_prompt_enabled": false,
+  "review_prompt_enabled": true,
   "review_prompt_max_per_day": 1,
   "premium_nudge_enabled": false,
   "premium_nudge_max_per_day": 1,
