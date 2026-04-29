@@ -1,6 +1,6 @@
 {
   "ads_enabled": true,
-  "force_update": false,
+  "force_update": true,
   "min_version": "1.0.0",
   "review_prompt_enabled": false,
   "review_prompt_max_per_day": 1,
